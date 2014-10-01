@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Claims SyncNo="32">
+<List id="1">
+<Name fieldName="Claimant">John Claimant</Name>
+<Cause fieldName="Cause">Robbery</Cause>
+<dol fieldName="Date of Loss">01-01-2011</dol>
+<Policy fieldName="Policy">900-10101-001</Policy>
+<PremCodes fieldName="Prem Codes">110,120,130</PremCodes>
+<notes fieldName="Notes"></notes>
+<toAddress fieldName="Recipient email">pbduncanson@gmail.com</toAddress>
+<toName fieldName="Recipient Name">Paul Duncanson</toName>
+<imageNames fieldName="Image Name"></imageNames>
+</List>
+<List id="2">
+<Name fieldName="Claimant">Charles Kindrich</Name>
+<Cause fieldName="Cause">Fire</Cause>
+<dol fieldName="Date of Loss">01-02-2011</dol>
+<Policy fieldName="Policy">900-10101-002</Policy>
+<PremCodes fieldName="Prem Codes">220,320,330,110</PremCodes>
+<notes fieldName="Notes"></notes>
+<toAddress fieldName="Recipient email">pbduncanson@gmail.com</toAddress>
+<toName fieldName="Recipient Name">Paul Duncanson</toName>
+<imageNames fieldName="Image Name"></imageNames>
+</List>
+<List id="3">
+<Name fieldName="Claimant">Joan Applegate</Name>
+<Cause fieldName="Cause">Collision with another vehicle</Cause>
+<dol fieldName="Date of Loss">01-03-2011</dol>
+<Policy fieldName="Policy">900-10101-003</Policy>
+<PremCodes fieldName="Prem Codes">110,120,130</PremCodes>
+<notes fieldName="Notes"></notes>
+<toAddress fieldName="Recipient email">pbduncanson@gmail.com</toAddress>
+<toName fieldName="Recipient Name">Paul Duncanson</toName>
+<imageNames fieldName="Image Name"></imageNames>
+</List>
+<List id="4">
+<Name fieldName="Claimant">Francis Johns</Name>
+<Cause fieldName="Cause">Robbery</Cause>
+<dol fieldName="Date of Loss">01-04-2011</dol>
+<Policy fieldName="Policy">900-10101-004</Policy>
+<PremCodes fieldName="Prem Codes">110,120,130</PremCodes>
+<notes fieldName="Notes"></notes>
+<toAddress fieldName="Recipient email">pbduncanson@gmail.com</toAddress>
+<toName fieldName="Recipient Name">Paul Duncanson</toName>
+<imageNames fieldName="Image Name"></imageNames>
+</List>
+<List id="5">
+<Name fieldName="Claimant">Randall Cunningham</Name>
+<Cause fieldName="Cause">Slipped and fell</Cause>
+<dol fieldName="Date of Loss">01-05-2011</dol>
+<Policy fieldName="Policy">900-10101-005</Policy>
+<PremCodes fieldName="Prem Codes">110,120,130</PremCodes>
+<notes fieldName="Notes"></notes>
+<toAddress fieldName="Recipient email">pbduncanson@gmail.com</toAddress>
+<toName fieldName="Recipient Name">Paul Duncanson</toName>
+<imageNames fieldName="Image Name"></imageNames>
+</List>
+</Claims>
+
